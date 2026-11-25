@@ -100,4 +100,6 @@ Full IEEE-format report: [docs/AdaptiveCombatSimulation_IEEE_Report.pdf](docs/Ad
 Shekhar Pratyush, Pranjal Raj, Aditya Raj, Yash Raj Pandey
 
 ## License
-Add a license (for example MIT) if you want others to reuse the code.
+This project's code is released under the [MIT License](LICENSE).
+
+Third-party assets (characters, environment, animations, etc.) are subject to their original licenses and are not covered by the MIT License.
